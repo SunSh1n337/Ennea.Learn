@@ -48,19 +48,6 @@ npm run dev
 
 Open http://localhost:3000 with your favorite browser to see your project.
 
-```
-.
-├── _posts            # Your blog posts
-├── public            # Static files
-│   ├── assets
-│   │   └── images
-│   │       └── posts # Images used in your blog posts
-└── src
-    ├── pages         # Next.js pages
-    ├── styles        # Your blog CSS files
-    └── templates     # Blog templates
-```
-
 
 ### Deploy to production
 
