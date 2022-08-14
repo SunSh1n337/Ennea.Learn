@@ -1,7 +1,7 @@
 # Next js blog  
 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/jSUNSH1NEw/nextJsBlog)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/SunSh1n337/Ennea.Learn)
 
 ### Features
 
@@ -11,9 +11,8 @@ Blog feature:
 - 🤖 SEO metadata and Open Graph tags
 - ⚙️ JSON-LD for richer indexing
 - 📖 Pagination
-- 🌈 Include a FREE minimalist blog theme
 - ⬇️ Markdown
-- 💯 Maximize lighthouse score
+- 💯 Maximize lighthouse
 
 Developer experience first:
 
@@ -34,20 +33,12 @@ Built-in feature from Next.js:
 
 ### Philosophy
 
-- Minimal code
-- SEO-friendly
-- 🚀 Production-ready
 
 ### Requirements
 
 - Node.js and npm
 
 
-```
-git clone --depth=1 https://github.com/ixartz/Next-js-Blog-Boilerplate.git my-project-name
-cd my-project-name
-npm install
-```
 
 Then, you can run locally in development mode with live reload:
 
@@ -100,7 +91,7 @@ Clone this repository on own GitHub account and deploy to Netlify:
 
 🚀 Blog made with Next.js blog Boilerplate is starter code for your blog based on Next.js 12+ framework with Tailwind CSS 3.0. ⚡️
 
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
+[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)]
 
 ### License
 
