@@ -39,7 +39,6 @@ Built-in feature from Next.js:
 - Node.js and npm
 
 
-
 Then, you can run locally in development mode with live reload:
 
 ```
@@ -76,9 +75,7 @@ Clone this repository on own GitHub account and deploy to Netlify:
 
 ### Contributions
 
-🚀 Blog made with Next.js blog Boilerplate is starter code for your blog based on Next.js 12+ framework with Tailwind CSS 3.0. ⚡️
-
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)]
+🚀 Blog made with Next.js Boilerplate from BoilerPlated for our blog based on Next.js 12+ framework with Tailwind CSS 3.0. ⚡️
 
 ### License
 
