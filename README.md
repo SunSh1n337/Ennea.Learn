@@ -7,7 +7,7 @@
 
 Blog feature:
 
-- 🎈 Syntax Highlighting with Prism.js
+- 🎈 Syntax Highlighting with Prisma.js
 - 🤖 SEO metadata and Open Graph tags
 - ⚙️ JSON-LD for richer indexing
 - 📖 Pagination
